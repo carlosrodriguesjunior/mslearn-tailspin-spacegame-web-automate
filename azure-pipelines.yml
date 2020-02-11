@@ -66,7 +66,7 @@ stages:
       artifact: drop
 
 - stage: 'Dev'
-  displayName: 'Deploy to the dev environment using terraform confidence'
+  displayName: 'Deploy to the dev environment using terraform confidence2'
   dependsOn: Build
   jobs:
   - job: Provision
