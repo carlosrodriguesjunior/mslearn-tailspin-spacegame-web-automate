@@ -6,7 +6,7 @@ terraform {
 }
 
 variable "resource_group_name" {
-  default = "tailspin-space-game-rg"
+  default = "genial-rg"
   description = "The name of the resource group"
 }
 
