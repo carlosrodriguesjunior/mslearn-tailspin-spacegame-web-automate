@@ -6,7 +6,7 @@ terraform {
 }
 
 variable "resource_group_name" {
-  default = "rg-ailos"
+  default = "genial-rg"
   description = "The name of the resource group"
 }
 
