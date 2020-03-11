@@ -11,7 +11,7 @@ provider "azurerm" {
 }
 
 variable "resource_group_name" {
-  default = "genial-rg"
+  default = "yamaha-rg"
   description = "The name of the resource group"
 }
 
