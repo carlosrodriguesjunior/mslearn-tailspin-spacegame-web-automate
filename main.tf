@@ -11,7 +11,7 @@ provider "azurerm" {
 }
 
 variable "resource_group_name" {
-  default = "yamaha-rg"
+  default = "devops-fc-rg"
   description = "The name of the resource group"
 }
 
